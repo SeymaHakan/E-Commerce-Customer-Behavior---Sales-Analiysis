@@ -1,4 +1,4 @@
-# E-Commerce SQL Analysis and Tableau
+# E-Commerce SQL Analysis and Power BI
 
 ## Project Overview
 This project analyzes an e-commerce dataset using SQL to extract insights about customer behavior, product performance, payment patterns, customer satisfaction, loyalty, and time-based sales trends.
@@ -101,11 +101,15 @@ Analysis of business performance over time:
 ## Tools
 - MySQL
 - SQL (Advanced analytical queries)
-- Tableau
-
+- Power BI
 ## Kaggle Dataset:
 - https://www.kaggle.com/datasets/umuttuygurr/e-commerce-customer-behavior-and-sales-analysis-tr
 ---
 
 ## Author
 SQL Data Analysis Project – E-Commerce Dataset
+
+## Power BI Visual
+<img width="1440" height="808" alt="Ekran Görüntüsü (450)" src="https://github.com/user-attachments/assets/55e9648e-c61f-46f0-b9cd-5770026ea256" />
+
+
