@@ -19,6 +19,10 @@ The dataset includes order-level e-commerce transactions with the following feat
 
 ---
 
+## Kaggle Dataset:
+- https://www.kaggle.com/datasets/umuttuygurr/e-commerce-customer-behavior-and-sales-analysis-tr
+---
+
 ## Analysis Structure
 
 ### 1. Data Exploration & Data Quality (EDA)
@@ -102,8 +106,6 @@ Analysis of business performance over time:
 - MySQL
 - SQL (Advanced analytical queries)
 - Power BI
-## Kaggle Dataset:
-- https://www.kaggle.com/datasets/umuttuygurr/e-commerce-customer-behavior-and-sales-analysis-tr
 ---
 
 ## Author
